@@ -33,3 +33,32 @@ Make sure python is installed
 
 python number_guesser.py
 
+## project structure
+
+- math-ganes-python
+-     number_guesser.py
+-     readme
+
+## What i practiced
+while building this project i learned:
+- working with random numbers
+- Handling user input
+- Creating infinite loops
+- Writing game logic
+- validating user input
+
+## Possible future improvements
+
+- Add difficulty levels
+- Add score system
+- Add limited number of guesses
+- create  GUI version using Tkinter
+- Add a leaderboard
+
+
+
+
+👨‍💻 Author
+
+Ibrahim Lone
+

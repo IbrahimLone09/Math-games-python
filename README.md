@@ -35,7 +35,7 @@ python number_guesser.py
 
 ## project structure
 
-- math-ganes-python
+- math-games-python
 -     number_guesser.py
 -     readme
 
